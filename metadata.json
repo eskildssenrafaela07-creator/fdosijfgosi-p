@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard: Abismo de Cinzas",
+  "description": "Plataforma de ação 2D em pixel art com dezenas de mundos, heróis elementais e chefões épicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

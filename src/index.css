@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "./game/game.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #07050d;
+  --foreground: #f5efe6;
+}
+
+@layer base {
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+}
